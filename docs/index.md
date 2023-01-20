@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: main
+title: Index
 copyright: Jeff Parker
 ---
 ## Heading 1
@@ -11,3 +11,4 @@ copyright: Jeff Parker
 
 1. One
 
+[link](/main)
